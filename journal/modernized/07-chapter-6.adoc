@@ -1,20 +1,56 @@
 == Chapter VI.
 
-Dublin--Poverty and wretchedness--Limerick--Fertile land--Cork--
-Foundlings--Clonmel--Rich Friends--St. Patrick`'s Well--Affecting
-partings--Widow Usher and daughters--Abraham Shackleton and his
-notions--Arrival in Wales--Manners and habits--Bristol--Bath--Hannah
-More--William Wilberforce--London--Norwich--Newspaper commendations--
-Benjamin West--Visit to the King,
-Queen,
-and Princesses--Meetings in London--War Taxes--Mary Fletcher--Shrewsbury--Wrexham--
-Opposition and meeting at Ormskirk--Liverpool--Re-enters Wales--Large meetings--
-Sails for Ireland--Dublin Yearly Meeting--Defection in fundamental principles--
-Violations of the testimony against war--Arduous labor to counteract unsound
-doctrine--Return to England--Birmingham--Soup-houses--London Yearly Meeting--Long
-walks to Yearly Meeting--Interviews at Newgate--Difficulty of obtaining a passage
-home--Murders by the Catholics in Ireland--Embarks at Bristol for America--
-Detention at Cork--Notes of the voyage--Arrival at home--Sickness and death.
+[.chapter-synopsis]
+* Dublin
+* Poverty and wretchedness
+* Limerick
+* Fertile land
+* Cork
+* Foundlings
+* Clonmel
+* Rich Friends
+* St. Patrick`'s Well
+* Affecting partings
+* Widow Usher and daughters
+* Abraham Shackleton and his notions
+* Arrival in Wales
+* Manners and habits
+* Bristol
+* Bath
+* Hannah More
+* William Wilberforce
+* London
+* Norwich
+* Newspaper commendations
+* Benjamin West
+* Visit to the King, Queen, and Princesses
+* Meetings in London
+* War Taxes
+* Mary Fletcher
+* Shrewsbury
+* Wrexham
+* Opposition and meeting at Ormskirk
+* Liverpool
+* Re-enters Wales
+* Large meetings
+* Sails for Ireland
+* Dublin Yearly Meeting
+* Defection in fundamental principles
+* Violations of the testimony against war
+* Arduous labor to counteract unsound doctrine
+* Return to England
+* Birmingham
+* Soup-houses
+* London Yearly Meeting
+* Long walks to Yearly Meeting
+* Interviews at Newgate
+* Difficulty of obtaining a passage home
+* Murders by the Catholics in Ireland
+* Embarks at Bristol for America
+* Detention at Cork
+* Notes of the voyage
+* Arrival at home
+* Sickness and death
 
 "`Dublin is certainly a very fine city; many of the streets are wide and elegantly built,
 perhaps Sackville street is not excelled by many, if any, in Europe;

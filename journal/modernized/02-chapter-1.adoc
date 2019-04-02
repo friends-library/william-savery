@@ -1,22 +1,52 @@
 == Chapter I.
 
-Early religious visitations--Reflections made in after life--Marriage--
-Renewed exercises and their effects--First appearance in the ministry--
-Religious visits from 1781 to 1789--Visit to S. Carolina and Georgia--
-Deputation to the Indians of the N. West--Address by Friends to the Indians--
-Journey to meet the Indians--Voyage up Niagara River and Lake Erie--Drunken
-Indians--Detroit--Religious Meetings--Kindness of the Officers to Friends--
-Gathering and appearance of the Indians--Interview with a Wyandot Chief--
-Great heat of weather--Horrors of Indian Wars--Repeated Disappointments--
-Indian Slaves--Leaves Detroit--Joins the Commissioners in Camp--Continued
-detention--Dangers from the Indians--Meetings on the Frontiers--Sickness--
-Indians decline receiving the Commissioners--Address from Friends sent to
-the Council--Indians refuse the terms offered by Government--Start for home--
-Party divides--Voyage down the St. Lawrence--Terrible Storm and suffering
-Night--Montreal--St. Johns--Voyage down Lake Champlain--Sickness and
-Suffering--Whitehall--Journey through New York State--Albany--Yellow Fever
-in Philadelphia--Voyage down the Hudson--Arrival in Philadelphia--Reward for
-the Sacrifices made--Interest of Friends in the Indians.
+[.chapter-synopsis]
+* Early religious visitations
+* Reflections made in after life
+* Marriage
+* Renewed exercises and their effects
+* First appearance in the ministry
+* Religious visits from 1781 to 1789
+* Visit to S. Carolina and Georgia
+* Deputation to the Indians of the N. West
+* Address by Friends to the Indians
+* Journey to meet the Indians
+* Voyage up Niagara River and Lake Erie
+* Drunken Indians
+* Detroit
+* Religious Meetings
+* Kindness of the Officers to Friends
+* Gathering and appearance of the Indians
+* Interview with a Wyandot Chief
+* Great heat of weather
+* Horrors of Indian Wars
+* Repeated Disappointments
+* Indian Slaves
+* Leaves Detroit
+* Joins the Commissioners in Camp
+* Continued detention
+* Dangers from the Indians
+* Meetings on the Frontiers
+* Sickness
+* Indians decline receiving the Commissioners
+* Address from Friends sent to the Council
+* Indians refuse the terms offered by Government
+* Start for home
+* Party divides
+* Voyage down the St. Lawrence
+* Terrible Storm and suffering Night
+* Montreal
+* St. Johns
+* Voyage down Lake Champlain
+* Sickness and Suffering
+* Whitehall
+* Journey through New York State
+* Albany
+* Yellow Fever in Philadelphia
+* Voyage down the Hudson
+* Arrival in Philadelphia
+* Reward for the Sacrifices made
+* Interest of Friends in the Indians
 
 William Savery was born in the city of Philadelphia, in the year 1750;
 received an education in the principles of the Christian religion,
@@ -487,10 +517,15 @@ and the approbation of President Washington having been obtained,
 they were deputed in its behalf to attend the said treaty,
 and present to the natives the following address:
 
-To the.
+[.embedded-content-document.address]
+--
+
+[.letter-heading]
+To the
 Indians living on the North-Western and Western borders of the United States,
 and all others whom this writing may concern:
 
+[.salutation]
 Brothers,
 
 Hearken to the speech which your friends called Quakers, assembled in Philadelphia,
@@ -586,9 +621,13 @@ in the ancient love which our grandfathers felt for each other, we salute you,
 wishing you happiness in this life, and that which is to come,
 and remain your friends and brothers.
 
-Signed by forty-four Friends.
+[.signed-section-signature]
+Signed by forty-four Friends
 
+[.signed-section-context-close]
 Philadelphia, fourth month 19th, 1793.
+
+--
 
 Of this journey, which proved to be one of great exposure and personal suffering,
 William Savery has preserved memorandums; from which it appears,

@@ -1,17 +1,51 @@
 == Chapter IV.
 
-Magdeburg--Halberstadt--Journey continued--Reach Pyrmont--Religious Meetings--Again
-leave Pyrmont--Rinteln--Reconciliation between separated Friends--Minden--
-Uncourteous treatment at Ufeln--Trials at Bilefield--Lemgo--Bad roads--Return to
-Hanover--Various religious services--Leave for Amsterdam--Disasters on the road--
-Revisit Minden--Religious Meetings--Counsellor Borges and Consistoriul Rath--
-Osnaburg--Impositions upon travellers--Bentheim--Deventer--Amsterdam--Friends in
-Amsterdam--Hague--Rotterdam--Religious reflections--Meetings with the inhabitants--
-Voyage to Sluys--Proceed to Dunkirk--Markets,
-etc.--Journey to Paris--Thomas Paine--Irreligion in the city--Journey to Congenies--
-Origin and character of Friends at Congenies--Religious services--Minutes made in
-former years--Affecting parting--Journey renewed--Gilles--Character of the people
-and country--Professors with Friends--Leaves Congenies.
+[.chapter-synopsis]
+* Magdeburg
+* Halberstadt
+* Journey continued
+* Reach Pyrmont
+* Religious Meetings
+* Again leave Pyrmont
+* Rinteln
+* Reconciliation between separated Friends
+* Minden
+* Uncourteous treatment at Ufeln
+* Trials at Bilefield
+* Lemgo
+* Bad roads
+* Return to Hanover
+* Various religious services
+* Leave for Amsterdam
+* Disasters on the road
+* Revisit Minden
+* Religious Meetings
+* Counsellor Borges and Consistoriul Rath
+* Osnaburg
+* Impositions upon travelers
+* Bentheim
+* Deventer
+* Amsterdam
+* Friends in Amsterdam
+* Hague
+* Rotterdam
+* Religious reflections
+* Meetings with the inhabitants
+* Voyage to Sluys
+* Proceed to Dunkirk
+* Markets, etc.
+* Journey to Paris
+* Thomas Paine
+* Irreligion in the city
+* Journey to Congenies
+* Origin and character of Friends at Congenies
+* Religious services
+* Minutes made in former years
+* Affecting parting
+* Journey renewed
+* Gilles
+* Character of the people and country
+* Professors with Friends--Leaves Congenies
 
 "`Seventh-day, 22nd. Reached Magdeburg before night;
 the innkeeper and servants received us again with gladness.
@@ -220,6 +254,10 @@ yet under the powerful influence of the Holy Spirit which accompanied,
 it was instrumental in awakening not a few to a serious consideration
 of the things which belong to their souls`' peace.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 A Translated Copy of a Letter from Major Marconnay to William Savery, David Sands, etc.
 
 My last words to you, dear brethren,
@@ -280,12 +318,20 @@ Never shall your memory be effaced from my soul, I shall not cease to love you;
 it will be a comfort to my weary soul,
 if sometimes you will make me joyful by imparting a few lines of love,
 and nothing but death will be able to prevent my answering your letters.
-In love I embrace you in my heart, as your ever loving brother,
+In love I embrace you in my heart, as
 
+[.signed-section-closing]
+your ever loving brother,
+
+[.signed-section-signature]
 Marconnay.
 
+[.signed-section-context-close]
 Berlin, 22nd October, 1796.]
 
+--
+
+[.offset]
 Returning now to the Journal:
 
 "`31st. We have received several letters from Philadelphia, which were very acceptable,
