@@ -520,6 +520,7 @@ and present to the natives the following address, viz:
 [.embedded-content-document.address]
 --
 
+[.letter-heading]
 To the
 Indians living on the North-Western and Western borders of the United States,
 and all others whom this writing may concern:
