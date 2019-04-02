@@ -517,13 +517,13 @@ and the approbation of President Washington having been obtained,
 they were deputed in its behalf to attend the said treaty,
 and present to the natives the following address:
 
-[.embedded-content-document.address]
---
-
+[.letter-heading]
 To the
 Indians living on the North-Western and Western borders of the United States,
 and all others whom this writing may concern:
-//^^ does this need any syntax?
+
+[.embedded-content-document.letter]
+--
 
 [.salutation]
 Brothers,
