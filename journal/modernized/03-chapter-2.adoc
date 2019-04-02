@@ -1,21 +1,40 @@
 == Chapter II.
 
-Joins another Deputation to an Indian Treaty--Address from Friends to
-the Indians--Journey from Philadelphia to the western part of New
-York--Hard fare in the Wilderness--Canandaigua--Interview with
-Oneidas--Jemima Wilkinson and her followers--Oneida Council--Col.
-Pickering--Council of the Six Nations--Speeches of Indian Chiefs--Red
-Jacket--Cornplanter--Interference of British Agent--Number and
-Possessions of the Six Nations--Speech of Col.
-Pickering--Remarkable Spring--Speech of Red Jacket to
-the Friends--Red Jacket`'s reply to Col.
-Pickering--Another Speech by the Commissioner--Reply by Red Jacket--
-Interruptions to closing the Treaty--Efforts of Friends to compensate
-the Indians formerly owning the land about Hopewell.
-Va.--Speech of Cornplanter--Reply of Commissioner--Treaty signed--Address of
-the Indians to the Friends--Start for Home--Difficulties of the Journey--
-Arrival in Philadelphia--Reflections respecting the Indians--Visit to
-Virginia Yearly Meeting--Remarkable Service in Richmond--Return Home.
+[.chapter-synopsis]
+* Joins another Deputation to an Indian Treaty
+* Address from Friends to the Indians
+* Journey from Philadelphia to the western part of New York
+* Hard fare in the Wilderness
+* Canandaigua
+* Interview with Oneidas
+* Jemima Wilkinson and her followers
+* Oneida Council
+* Col. Pickering
+* Council of the Six Nations
+* Speeches of Indian Chiefs
+* Red Jacket
+* Cornplanter
+* Interference of British Agent
+* Number and Possessions of the Six Nations
+* Speech of Col. Pickering
+* Remarkable Spring
+* Speech of Red Jacket to the Friends
+* Red Jacket`'s reply to Col. Pickering
+* Another Speech by the Commissioner
+* Reply by Red Jacket
+* Interruptions to closing the Treaty
+* Efforts of Friends to compensate the Indians formerly owning the land about Hopewell, VA
+* Speech of Cornplanter
+* Reply of Commissioner
+* Treaty signed
+* Address of the Indians to the Friends
+* Start for Home
+* Difficulties of the Journey
+* Arrival in Philadelphia
+* Reflections respecting the Indians
+* Visit to Virginia Yearly Meeting
+* Remarkable Service in Richmond
+* Return Home
 
 +++[+++Editor`'s Note:
 The following chapter is largely taken up with the details of treaty
@@ -49,9 +68,14 @@ offered themselves for the service, and being approved by the meeting,
 were furnished with a number of articles, as presents for the Indians,
 and with the following address:
 
+[.embedded-content-document.address]
+--
+
+[.signed-section-context-open]
 "`The people called Quakers, in Pennsylvania, New Jersey, etc.,
 by their representatives assembled at Philadelphia, the 9th of Ninth month, 1794:
 
+[.salutation]
 To our brothers, the Indians of the Six Nations,
 who have appointed to meet at Canandaigua, in order for the promotion of lasting peace;
 
@@ -94,7 +118,10 @@ as the descendants of the first inhabitants of this land of North America,
 whom our forefathers found here after they had crossed the great water.
 Desiring that the chain of our friendship may be kept bright, we bid you farewell.
 
-Signed by forty-four Friends.
+[.signed-section-signature]
+Signed by forty-four Friends
+
+--
 
 The benevolent and sympathetic mind of our beloved friend,
 was so deeply interested for this injured people,

@@ -1,22 +1,52 @@
 == Chapter I.
 
-Early religious visitations--Reflections made in after life--Marriage--
-Renewed exercises and their effects--First appearance in the ministry--
-Religious visits from 1781 to 1789--Visit to S. Carolina and Georgia--
-Deputation to the Indians of the N. West--Address by Friends to the Indians--
-Journey to meet the Indians--Voyage up Niagara River and Lake Erie--Drunken
-Indians--Detroit--Religious Meetings--Kindness of the Officers to Friends--
-Gathering and appearance of the Indians--Interview with a Wyandot Chief--
-Great heat of weather--Horrors of Indian Wars--Repeated Disappointments--
-Indian Slaves--Leaves Detroit--Joins the Commissioners in Camp--Continued
-detention--Dangers from the Indians--Meetings on the Frontiers--Sickness--
-Indians decline receiving the Commissioners--Address from Friends sent to
-the Council--Indians refuse the terms offered by Government--Start for home--
-Party divides--Voyage down the St. Lawrence--Terrible Storm and suffering
-Night--Montreal--St. Johns--Voyage down Lake Champlain--Sickness and
-Suffering--Whitehall--Journey through New York State--Albany--Yellow Fever
-in Philadelphia--Voyage down the Hudson--Arrival in Philadelphia--Reward for
-the Sacrifices made--Interest of Friends in the Indians.
+[.chapter-synopsis]
+* Early religious visitations
+* Reflections made in after life
+* Marriage
+* Renewed exercises and their effects
+* First appearance in the ministry
+* Religious visits from 1781 to 1789
+* Visit to S. Carolina and Georgia
+* Deputation to the Indians of the N. West
+* Address by Friends to the Indians
+* Journey to meet the Indians
+* Voyage up Niagara River and Lake Erie
+* Drunken Indians
+* Detroit
+* Religious Meetings
+* Kindness of the Officers to Friends
+* Gathering and appearance of the Indians
+* Interview with a Wyandot Chief
+* Great heat of weather
+* Horrors of Indian Wars
+* Repeated Disappointments
+* Indian Slaves
+* Leaves Detroit
+* Joins the Commissioners in Camp
+* Continued detention
+* Dangers from the Indians
+* Meetings on the Frontiers
+* Sickness
+* Indians decline receiving the Commissioners
+* Address from Friends sent to the Council
+* Indians refuse the terms offered by Government
+* Start for home
+* Party divides
+* Voyage down the St. Lawrence
+* Terrible Storm and suffering Night
+* Montreal
+* St. Johns
+* Voyage down Lake Champlain
+* Sickness and Suffering
+* Whitehall
+* Journey through New York State
+* Albany
+* Yellow Fever in Philadelphia
+* Voyage down the Hudson
+* Arrival in Philadelphia
+* Reward for the Sacrifices made
+* Interest of Friends in the Indians
 
 William Savery was born in the city of Philadelphia, in the year 1750;
 received an education in the principles of the Christian religion,
@@ -133,7 +163,7 @@ than by submitting myself to the cross, of which I had as yet experienced but li
 I was much tossed and distressed, as one who was in a dark and howling wilderness,
 where I could see no way out, either to the right hand or to the left.
 But at length, the Lord, who indeed watched over me continually for good,
-blessed and praised for ever he his name, brought me into some degree of composure.
+blessed and praised forever he his name, brought me into some degree of composure.
 The strong impression then made on my mind, its application to the state I was in,
 and the instruction it conveyed to me,
 left me no room to doubt its being divinely intended for my good.
@@ -186,7 +216,7 @@ insomuch that I could not restrain them nor
 scarcely utter a word for a considerable time;
 and my dear partner, who shared with me in my affliction,
 was also made a partaker with me in my exceeding great joy.
-Blessed for ever be the name of the Lord,
+Blessed forever be the name of the Lord,
 though He sees meet for our refinement to try us even to an hair`'s breadth,
 yet in our utmost extremity his all-powerful arm is made bare for our deliverance.`"
 
@@ -274,7 +304,7 @@ Appointed a meeting to be held in the Methodist
 meeting-house in the evening of the 26th. The house was filled,
 and it was said that several hundreds could not get in.
 Some fundamental truths were opened, showing that the work of righteousness is peace,
-and the effect thereof, quietness and assurance for ever.
+and the effect thereof, quietness and assurance forever.
 The Lord was pleased to favor with ability to my humbling admiration;
 the meeting was still and solid, and I went to my lodgings in peace.
 
@@ -487,10 +517,14 @@ and the approbation of President Washington having been obtained,
 they were deputed in its behalf to attend the said treaty,
 and present to the natives the following address, viz:
 
-To the.
+[.embedded-content-document.address]
+--
+
+To the
 Indians living on the North-Western and Western borders of the United States,
 and all others whom this writing may concern:
 
+[.salutation]
 Brothers,
 
 Hearken to the speech which your friends called Quakers, assembled in Philadelphia,
@@ -546,7 +580,7 @@ and of the hearts of all mankind, and all their actions.
 And when their bodies die, such men of all colors and all nations, who have loved,
 served and obeyed the holy law of the Good Spirit, placed in their hearts,
 He will receive their souls, which are never to die,
-and they will live with Him in joy and peace for ever:
+and they will live with Him in joy and peace forever:
 but the souls of bad men who have lived wickedly in this world, must live,
 after their bodies die, with the bad Spirit in a state of distress and misery.
 
@@ -586,9 +620,13 @@ in the ancient love which our grandfathers felt for each other, we salute you,
 wishing you happiness in this life, and that which is to come,
 and remain your friends and brothers.
 
+[.signed-section-signature]
 Signed by forty-four Friends.
 
+[.signed-section-context-close]
 Philadelphia, fourth month 19th, 1793.
+
+--
 
 Of this journey, which proved to be one of great exposure and personal suffering,
 William Savery has preserved memorandums; from which it appears,

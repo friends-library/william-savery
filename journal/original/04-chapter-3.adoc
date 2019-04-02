@@ -1,23 +1,60 @@
 == Chapter III.
 
-Concern to visit Europe--Journal of the Voyage--Leave-taking--
-Banks of Newfoundland--Hard weather--Meetings on Shipboard--
-French Privateer--Arrival at Liverpool--Appointed Meetings--
-London--Sails for Bremen with George Dillwyn and David Sands,
-etc.--Notice of Voyage--Reach Bremen--Wine Cellar--Religious Citizens--
-Continues Journey--Hamburg and Altona--Religious Services--Travelling
-through Germany--Zell--Habits of the People--Pious Pastor--Hanover--Visits
-to several religious characters--Hammelin--Pyrmont--Grave of John Pemberton--
-Professors with Friends--Separatists--Religious Engagements--Remarkable
-reuniting Meeting with both Parties--Affecting Parting --Leaves Pyrmont with
-David Sands,
-etc.--Visits the Dutchess of Brunswick--Helmstead--Character of the Country--
-Magdeburg--Religious Service--Detects an Impostor--Brandenburg--Religious
-Meeting--Potsdam--Notice of the City--Berlin--Discouragements--Size,
-etc.,
-of the City--Interviews with religious Persons--Meetings held--Visit
-to Freyenwalde--Return to Berlin--Disliked by the Clergy--Various
-Engagements--Kindness of many--Leave-taking--Start for Magdeburg.
+[.chapter-synopsis]
+* Concern to visit Europe
+* Journal of the Voyage
+* Leave-taking
+* Banks of Newfoundland
+* Hard weather
+* Meetings on Shipboard
+* French Privateer
+* Arrival at Liverpool
+* Appointed Meetings
+* London
+* Sails for Bremen with George Dillwyn and David Sands, etc.
+* Notice of Voyage
+* Reach Bremen
+* Wine Cellar
+* Religious Citizens
+* Continues Journey
+* Hamburg and Altona
+* Religious Services
+* Travelling through Germany
+* Zell
+* Habits of the People
+* Pious Pastor
+* Hanover
+* Visits to several religious characters
+* Hammelin
+* Pyrmont
+* Grave of John Pemberton
+* Professors with Friends
+* Separatists
+* Religious Engagements
+* Remarkable reuniting Meeting with both Parties
+* Affecting Parting
+* Leaves Pyrmont with David Sands, etc.
+* Visits the Dutchess of Brunswick
+* Helmstead
+* Character of the Country
+* Magdeburg
+* Religious Service
+* Detects an Impostor
+* Brandenburg
+* Religious Meeting
+* Potsdam
+* Notice of the City--Berlin
+* Discouragements
+* Size, etc., of the City
+* Interviews with religious Persons
+* Meetings held
+* Visit to Freyenwalde
+* Return to Berlin
+* Disliked by the Clergy
+* Various Engagements
+* Kindness of many
+* Leave-taking
+* Start for Magdeburg
 
 The mind of William Savery being expanded by Gospel love,
 and an ardent desire for the salvation of his fellow creatures, he was made willing,
@@ -858,7 +895,7 @@ surrounded by mounds of earth, a wide ditch, gates, etc., and guarded by soldier
 The promenades around it are very fine, lined with trees, and gravelled.
 At this time they are suspicious of strangers,
 and in addition to taking our names at entering the gates,
-every inn-keeper is obliged to return the names
+every innkeeper is obliged to return the names
 of his lodgers every morning to the burgomaster.
 The people are quiet and respectful to us; there is little appearance of trade,
 and the market is poor.
