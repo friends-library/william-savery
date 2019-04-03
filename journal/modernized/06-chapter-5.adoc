@@ -1,17 +1,55 @@
 == Chapter V.
 
-Leaves Congenies--Impositions--Vienno--Lyons--Incidents of travel--Poor quarters--
-Robbery and its event--Accident on the road--Difficulty of religious labor--Renewed
-imposition--Mean fare--Catholic chapel and ceremonies--Arrival in Paris--American
-consul--Renewed difficulties--Notice of Paris--Ruins of Prince Conde estate--
-Dunkirk--Character of the French--Rejoicing at the prospect of peace--Difficulty of
-procuring passports--Arrival in England--Renewed religious engagements--Printed
-sermons--Isle of Wight--Island of Jersey--Descendants of Mary Dyer--Guernsey--
-Prisoners at York--Liverpool--Isle of Man--Interesting interviews and meetings--
-Swarthmore--Services in the north of England--Scotland--Edinburgh--Dundee--Urie and
-Robert Barclay--Aberdeen--Penitent hearers--Return to Edinburgh--Glasgow--Ireland--
-Belfast--Boarding-school--Poverty of the people--Romish funeral--Dublin--
-Distribution of alms.
+[.chapter-synopsis]
+* Leaves Congenies
+* Impositions
+* Vienno
+* Lyons
+* Incidents of travel
+* Poor quarters
+* Robbery and its event
+* Accident on the road
+* Difficulty of religious labor
+* Renewed imposition
+* Mean fare
+* Catholic chapel and ceremonies
+* Arrival in Paris
+* American consul
+* Renewed difficulties
+* Notice of Paris
+* Ruins of Prince Conde estate
+* Dunkirk
+* Character of the French
+* Rejoicing at the prospect of peace
+* Difficulty of procuring passports
+* Arrival in England
+* Renewed religious engagements
+* Printed sermons
+* Isle of Wight
+* Island of Jersey
+* Descendants of Mary Dyer
+* Guernsey
+* Prisoners at York
+* Liverpool
+* Isle of Man
+* Interesting interviews and meetings
+* Swarthmore
+* Services in the north of England
+* Scotland
+* Edinburgh
+* Dunde
+* Urie and Robert Barclay
+* Aberdeen
+* Penitent hearers
+* Return to Edinburgh
+* Glasgow
+* Ireland
+* Belfast
+* Boarding-school
+* Poverty of the people
+* Romish funeral
+* Dublin
+* Distribution of alms
 
 "`6th. Parting affectionately with our three friends from Congenies,
 we passed through a number of villages, and arrived at Bagniol, took some refreshment,

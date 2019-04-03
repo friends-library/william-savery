@@ -1,17 +1,51 @@
 == Chapter IV.
 
-Magdeburg--Halberstadt--Journey continued--Reach Pyrmont--Religious Meetings--Again
-leave Pyrmont--Rinteln--Reconciliation between separated Friends--Minden--
-Uncourteous treatment at Ufeln--Trials at Bilefield--Lemgo--Bad roads--Return to
-Hanover--Various religious services--Leave for Amsterdam--Disasters on the road--
-Revisit Minden--Religious Meetings--Counsellor Borges and Consistoriul Rath--
-Osnaburg--Impositions upon travellers--Bentheim--Deventer--Amsterdam--Friends in
-Amsterdam--Hague--Rotterdam--Religious reflections--Meetings with the inhabitants--
-Voyage to Sluys--Proceed to Dunkirk--Markets,
-etc.--Journey to Paris--Thomas Paine--Irreligion in the city--Journey to Congenies--
-Origin and character of Friends at Congenies--Religious services--Minutes made in
-former years--Affecting parting--Journey renewed--Gilles--Character of the people
-and country--Professors with Friends--Leaves Congenies.
+[.chapter-synopsis]
+* Magdeburg
+* Halberstadt
+* Journey continued
+* Reach Pyrmont
+* Religious Meetings
+* Again leave Pyrmont
+* Rinteln
+* Reconciliation between separated Friends
+* Minden
+* Uncourteous treatment at Ufeln
+* Trials at Bilefield
+* Lemgo
+* Bad roads
+* Return to Hanover
+* Various religious services
+* Leave for Amsterdam
+* Disasters on the road
+* Revisit Minden
+* Religious Meetings
+* Counsellor Borges and Consistoriul Rath
+* Osnaburg
+* Impositions upon travelers
+* Bentheim
+* Deventer
+* Amsterdam
+* Friends in Amsterdam
+* Hague
+* Rotterdam
+* Religious reflections
+* Meetings with the inhabitants
+* Voyage to Sluys
+* Proceed to Dunkirk
+* Markets, etc.
+* Journey to Paris
+* Thomas Paine
+* Irreligion in the city
+* Journey to Congenies
+* Origin and character of Friends at Congenies
+* Religious services
+* Minutes made in former years
+* Affecting parting
+* Journey renewed
+* Gilles
+* Character of the people and country
+* Professors with Friends--Leaves Congenies
 
 "`Seventh-day, 22nd. Reached Magdeburg before night;
 the innkeeper and servants received us again with gladness.
@@ -220,6 +254,10 @@ yet under the powerful influence of the Holy Spirit which accompanied,
 it was instrumental in awakening not a few to a serious consideration
 of the things which belong to their souls`' peace.
 
+[.embedded-content-document.letter]
+--
+
+[.letter-heading]
 A Translated Copy of a Letter from Major Marconnay to William Savery, David Sands, etc.
 
 My last words to you, dear brethren,
@@ -280,11 +318,18 @@ Never shall your memory be effaced from my soul, I shall not cease to love you;
 it will be a comfort to my weary soul,
 if sometimes you will make me joyful by imparting a few lines of love,
 and nothing but death will be able to prevent my answering your letters.
-In love I embrace you in my heart, as your ever loving brother,
+In love I embrace you in my heart, as
 
+[.signed-section-closing]
+Your ever loving brother,
+
+[.signed-section-signature]
 Marconnay.
 
+[.signed-section-context-close]
 Berlin, 22nd October, 1796.]
+
+--
 
 Returning now to the Journal:
 
@@ -946,7 +991,7 @@ which is an ample reward for all our toil and suffering.
 "`19th. Left Bentheim, and the roads being difficult,
 did not arrive at Delden till two hours after dark.
 Our expenses at inns are extravagant; and all over this country,
-travellers are fleeced in almost every way, especially foreigners;
+travelers are fleeced in almost every way, especially foreigners;
 and without submitting to multiplied impositions,
 there is no getting along with any degree of comfort.
 It is far more expensive travelling than in England;
@@ -970,7 +1015,7 @@ The city of Deventer and its environs, the river Yssel,
 with a handsome bridge upon boats, and the cleanliness of the people,
 formed as agreeable a prospect as any we have seen on
 the continent--the city may contain ten thousand people.
-Travellers become more numerous as we approach Amsterdam: we were taken for Hanoverians,
+travelers become more numerous as we approach Amsterdam: we were taken for Hanoverians,
 could understand but little they say, though they can readily comprehend us in German.
 The Holland language appears to be a mixture of bad German, French, and English.
 The roads being good, we made thirty miles today, travelling,
@@ -1027,7 +1072,7 @@ Had two meetings; about fifty persons attended each, and we hope they were to so
 we exchanged our old wagon for a coach, which will be safer and warmer,
 and we '`hope to travel with two, instead of four, horses.
 Notwithstanding the beauty and opulence of Amsterdam in general,
-travellers are beset every few paces with beggars.
+travelers are beset every few paces with beggars.
 In the Jews`' quarter especially, the misery, nakedness, and dirtiness,
 exceed anything of the kind I have ever seen before.
 In Berlin I was never asked for charity.
@@ -1517,7 +1562,7 @@ which is nothing more than a small cart without sides, at each end a basket,
 and in the middle a straw bed for the passengers to sit on, back to back,
 with their legs in the basket; they carry four persons, have a little horse or mule,
 and a postilion,
-and these appear to be the only carriages that travellers can obtain in France,
+and these appear to be the only carriages that travelers can obtain in France,
 except they travel in the national cabriolets with eight horses;
 or have their own carriages, when they may obtain post-horses.
 This was a very trying day to my mind; darkness seemed to cover my spirit.
@@ -1586,7 +1631,7 @@ We went on shore and walked to a city about a mile distant,
 said to be built and fortified by Julius Caesar, and called Montlemar;
 it has high strong walls, and bears all the marks of great antiquity,
 has little riches or trade.
-No auberges or taverns, within the walls, being permitted to lodge travellers,
+No auberges or taverns, within the walls, being permitted to lodge travelers,
 we went to several outside, but could find no lodgings;
 it being on the main road from the south to Lyons, they were filled with guests;
 at last we got to a poor inn where they took five of us:
@@ -1611,7 +1656,7 @@ there is great danger in travelling on account
 of robbers and assassins who infest the roads,
 so that none care to travel after night.
 The mail was robbed on a mountain which we crossed today,
-and some travellers have been robbed and murdered lately in this vicinity,
+and some travelers have been robbed and murdered lately in this vicinity,
 which makes it a very trying time to travel in France.
 We went to the municipality, who endorsed our passes and behaved friendly;
 and some persons being desirous of information, we gave them several books.
