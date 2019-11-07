@@ -289,7 +289,7 @@ time for the Yearly Meeting in London.
 Being much cast down,
 I quietly reflected on the mercy and goodness of our heavenly Shepherd,
 who has condescended from time to time, to '`make darkness light before us,
-and crooked things straight;`' and then felt easy w leave the
+and crooked things straight;`' and then felt easy to leave the
 business of procuring passes and forwarding them to us,
 to the consul, and proceed to Dunkirk.
 We then took post-horses for St. Dennis,
@@ -317,7 +317,7 @@ lives on part of the estate once belonging to the prince of Conde;
 his wife and children continuing in England.
 
 "`21st. Having breakfasted at Potter`'s,
-be took us to view the former seat of the prince, which for magnificence and extent,
+he took us to view the former seat of the prince, which for magnificence and extent,
 exceeds anything we have seen in Europe, belonging to a subject,
 though at present its grandeur is defaced: the mansion-house, stables,
 green-houses and other buildings, are in their extent and style,
@@ -631,7 +631,7 @@ The young man, the master of the house, arrived just at the breaking up of the m
 and expressed his sorrow at not being at it.
 
 "`21st. A Methodist minister, at the close of their meeting,
-bad given notice of our meeting to be held this evening,
+had given notice of our meeting to be held this evening,
 at the house of some pious people of the Methodist connection:
 the woman of the house seemed to be universally esteemed,
 she held meetings in their cottage and frequently preached to the people.
@@ -879,14 +879,14 @@ After some time, they became still,
 and though it did not appear to be as much favored as some meetings,
 yet I was helped to open several important doctrines,
 and passages of Holy Scripture readily and pertinently presented for their support.
-My mind became relieved, and I hope "`the cause of Truth lost nothing;
+My mind became relieved, and I hope the cause of Truth lost nothing;
 the people parted with us respectfully,
 not at all pleased with the attempt of the parson to prevent the meeting.
 One of the principal contributors was much displeased with his conduct,
 and said the doctrine he had heard was true and very liberal.
 
 "`18th. A number of the people desired to know when we would have another meeting,
-but we not inclining to stir, up contention between them and their minister,
+but we not inclining to stir up contention between them and their minister,
 did not think it proper to hold any more in that house.
 In the afternoon, I went out about five miles,
 and had a meeting at the house of a person who is a member with the Methodists;
@@ -919,7 +919,7 @@ o`'clock the next evening for the neighbors.
 "`27th. The meeting was large and solid;
 to the Lord be the praise and glory of his own works.
 
-"`29th. At York; visited several places, and went to the castle where seven.
+"`29th. At York; visited several places, and went to the castle where seven
 Friends are confined for their religious testimony against tithes.
 The buildings are airy and handsome;
 those Friends have a large room to themselves in the daytime,
@@ -1037,7 +1037,7 @@ An officer, who sat by me, kneeled down with me at the time of prayer,
 and seemed much affected, as was also Major Wallop, brother of the earl of Portsmouth,
 who had sat by me in every meeting.
 The people were tender, and hoped we would have more meetings before we left the island,
-A serious soldier followed me in the street, and expressed with much tenderness,
+a serious soldier followed me in the street, and expressed with much tenderness,
 his satisfaction,
 and told me it was a great grievance to him and several of his comrades,
 that their captain drew them out on parade, on First-day mornings,
@@ -1266,11 +1266,11 @@ and a great deal of hay being nearly rotten.
 "`First-day, 17th. The meeting was larger than any I have seen,
 except London and Bristol; and an appointed one this evening was very large and crowded;
 it was supposed there were fourteen hundred persons within doors, and many out;
-the Author of all good was mercifully pleased to he with us,
+the Author of all good was mercifully pleased to be with us,
 and it concluded in thanksgiving.
 
 "`19th. Attended their week-day meeting, wherein I was silent:
-appointed one to he held at six o`'clock this evening, for all who inclined to attend;
+appointed one to be held at six o`'clock this evening, for all who inclined to attend;
 which, though it rained very hard, was large, consisting of about one thousand people,
 who behaved becomingly.
 My cold and hoarseness made it trying to me to speak, yet it closed comfortably:
@@ -1293,7 +1293,7 @@ made of leather above and wood and iron for the soles,
 which seems to be general in the north of England,
 except for such as are of considerable property.
 
-22nd. Appointed a meeting for six o`'clock this evening;
+"`22nd. Appointed a meeting for six o`'clock this evening;
 a number of Friends came in from the country, among whom was John Hall, of Broughton,
 a minister; the meeting was large and satisfactory.
 
@@ -1421,7 +1421,7 @@ Alexander Webster and William Smith, visited us,
 who appear to be convinced of our principles and very friendly.
 Some notice having been given, and a large hall well seated,
 we went to the meeting with expectation of seeing very few,
-as it was the time that all the different places of worship hegan,
+as it was the time that all the different places of worship began,
 and the people are very exact in this country in attending their places of worship,
 and keeping the First-day religiously in their way.
 However, about four hundred came, mostly men, and after a few minutes, behaved well.
@@ -1454,7 +1454,7 @@ and they parted in a very friendly disposition.
 We don`'t know that much was gained; but we all concluded nothing was lost,
 as they were driven to their shifts, and willing to drop the argument,
 and said they wished there was a body of Friends settled at Dundee.
-I retired to rest, thankful for the merciful preservation and help through tie day.
+I retired to rest, thankful for the merciful preservation and help through the day.
 
 "`9th. The town of Dundee stands on the river Tay, about eight miles from the sea,
 and as well as almost every village and town in England and Scotland,
@@ -1484,7 +1484,7 @@ though the absurd doctrine of unconditional election and reprobation,
 so rigidly held by many, must first be renounced.
 Our landlord acknowledged he was much edified by our meetings,
 and parted with us with many good wishes.
-Rode through a fine grain country, pretty much in sight of the sea-, and got to Montrose,
+Rode through a fine grain country, pretty much in sight of the sea, and got to Montrose,
 and visited a widow Milne and daughter, the only Friends at that town,
 and had a religious opportunity with them to our satisfaction.
 
@@ -1677,7 +1677,7 @@ we concluded to send them some books from Edinburgh;
 and the two Friends crossing the river with us, we had a tender parting from them,
 and rode on to the county town, (Cooper,) where we lodged.
 
-"`21st. Set off in the rain and cold, rode throngs the towns of Kircaldy, Kinghorn,
+"`21st. Set off in the rain and cold, rode through the towns of Kircaldy, Kinghorn,
 etc. and arrived at the ferry opposite Leith: it blew very hard,
 yet thirty of us passengers went in a sloop, and had a rough, wet time,
 and poor accommodations, but arrived safely.
@@ -1744,7 +1744,7 @@ did not hold so long as common, feeling that those I most wanted to see were not
 and I marvelled that there were no more than we had before;
 but was informed that the Presbyterians and the seceders from them,
 accounted the most rigid to their faith of any in Scotland,
-had no unity with tin Methodists, and our having the meeting ii their house,
+had no unity with the Methodists, and our having the meeting in their house,
 kept many away.
 I appointed the meeting for tomorrow forenoon at the Tradesmen`'s Hall.
 
@@ -1811,7 +1811,7 @@ Mutton costs here four pence, and beef six pence per pound, and much of it very 
 we went on board the packet and arrived at Donagadee, in Ireland, in the evening.
 
 "`First-day,
-the 5th. Sat down with '`the family and a few others who commonly attend with them,
+the 5th. Sat down with the family and a few others who commonly attend with them,
 and at the close of the sitting I proposed a meeting at Newton this evening,
 of which our friend T. Bradshaw gave notice in the town.
 At six o`'clock, though very wet and discouraging,
@@ -1870,7 +1870,7 @@ who formerly kept it: it has forty acres of land on a long lease.
 The National Meeting subscribed four thousand pounds,
 and the province of Ulster raises annually about three hundred pounds for its support;
 this with some little income beside, enables the institution to board,
-educate and clothe fifty-set children, from eight to fifteen years of age,
+educate and clothe fifty-six children, from eight to fifteen years of age,
 at three pounds per annum; they bringing with them one good suit,
 and also a common one:--the whole expense for one scholar,
 is about thirteen pounds Irish, per annum.
@@ -1976,7 +1976,7 @@ which the poor women seemed eager to catch, and returned him a courtesy.
 "`28th. Reached Dublin, and on the 30th went with two Friends to visit the poor,
 principally in those parts called the Liberties,
 where the most distressing scenes of human misery presented themselves in abundance,
-such as my eyes had never seen before, neither is ic in my power fully to describe.
+such as my eyes had never seen before, neither is it in my power fully to describe.
 We went through the different apartments of fifty or sixty houses,
 with scarcely any glass in the windows, the ground floors of earth,
 and everywhere filled with almost all kinds of filth;--in some rooms two, three,
@@ -2019,7 +2019,7 @@ Went to the appointed evening meeting, which was exceedingly crowded,
 and it was said that many hundreds went away; the meeting was quiet and ended well.
 Appointed another in the same house to be on Third-day evening:
 truly these engagements are not desirable to the flesh.
-I long for a release in the Lord-s time;
+I long for a release in the Lord`'s time;
 may I be enabled to keep the word of his patience.
 
 "`On the 4th, went with two young men on another visit to the poor,
