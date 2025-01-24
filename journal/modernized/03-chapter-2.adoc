@@ -472,7 +472,7 @@ there would be so many improved farms in their possession,
 which would result in a great accumulation of wealth to the Oneida nation.
 He concluded by promising to return by the Oneida castle, as he went home,
 where he would repeat his advice to them, that they might not forget it;
-and told them they had reason to rest peaceably-and quietly,
+and told them they had reason to rest peaceably and quietly,
 though it should not even be in the power of government
 to reclaim the lands which Smith had got upon lease;
 for they should consider that a great estate was still in their possession,
@@ -1785,7 +1785,7 @@ The following memorandum is the first which occurs respecting the journey:
 "`13th. Rose at three o`'clock in the morning,
 after a very poor night`'s rest in a cold open hut,
 where it snowed in upon us as we laid.
-The weather was very cold and the roads exceedingly had;
+The weather was very cold and the roads exceedingly bad;
 we had an uncomfortable ride of four hours,
 during which John Parrish had his face bruised by a fall;
 and such was the difficulty in part of the road,
@@ -1885,6 +1885,9 @@ States to large tracts of land which had been obtained by conquest,
 without making the Indians what Friends deemed an adequate and just compensation for it,
 they could not consent to the requests so frequently made to sign the treaty.
 
+[.small-break]
+'''
+
 Soon after reaching home, this diligent laborer in the cause of his Lord and Master,
 believed himself called to attend the Yearly Meeting of Friends in Virginia,
 and some of the meetings composing it.
@@ -1969,7 +1972,7 @@ It runs about forty-five feet above the level of James river.
 
 "`First-day, 24th. Arose with much fear and concern upon my mind,
 lest truth should suffer by our having a meeting among a gay and libertine people,
-many of them much hurt by Paine`'s '`Age of Reason,`'
+many of them much hurt by Paine`'s [.book-title]#Age of Reason,#
 which has been abundantly spread in Virginia.
 However, at entering the capitol,
 where Friends had almost universally been exceedingly tried in their labors,

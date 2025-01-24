@@ -119,7 +119,7 @@ About six in the evening, we went aboard the Sussex, at anchor before New Castle
 we found ourselves this morning at Reedy island,
 where we waited for some addition to our poultry.
 The forenoon was rainy, with high wind and rough water--several of the passengers sick.
-The weather clearing away in the afternoon) we again
+The weather clearing away in the afternoon we again
 set sail until about eleven o`'clock at night,
 then dropped anchor; the pilot not being willing to go out of the capes that night.
 
@@ -212,7 +212,7 @@ until they are loaded, when they return home and dry them.
 We threw out a line, and soon took seven of from ten to twelve pounds weight.
 
 "`Fourth-day, 1st of Sixth month.
-Very wet, cold and uncomfortable, but the wind fair; we held our meeting in much quietude
+Very wet, cold and uncomfortable, but the wind fair; we held our meeting in much quietude.
 
 "`Fifth-day, 2nd. Still wet and cold,
 and we were scarcely able to keep ourselves warm with our great coats on.
@@ -499,7 +499,7 @@ merchants in the town, to whom we were recommended.
 Topkin having been some time in London, spoke English,
 and gave us information respecting the money, mode of travelling, etc., in Germany.
 We then went to Cassell and Trobis,
-and found that Cassell had just returned from Pyrraont: he speaks some English,
+and found that Cassell had just returned from Pyrmont: he speaks some English,
 and lives in high style.
 An agreeable young man, who was employed in their counting-house,
 and understood the English language pretty well, walked with us round the town,
@@ -612,7 +612,7 @@ which appears to be the opinion of many of the pious people in this country;
 and this makes them shy of Friends at first, as they know us to be a gathered people:
 this continually adds to the weight of exercise which
 Friends must experience in visiting Germany.
-We gave him Barclay`'s Apology, and several other books,
+We gave him Barclay`'s [.book-title]#Apology,# and several other books,
 to lend or give to inquiring people,
 which he seemed pleased with an opportunity of doing.
 He gave us some directions for finding a serious people in Hamburg and Altona.
@@ -792,7 +792,7 @@ We hired a boat to take us and our wagon to Harburg, six English miles, for six 
 dined in that place, at the house where we had lodged before;
 the people looked pleased to see us and hoped to
 have our company again before we left Germany.
-We took four post-horses, and leaving Harburg travelled through a poor, Darren country,
+We took four post-horses, and leaving Harburg travelled through a poor, barren country,
 the roads sandy and houses mean, and arrived at Walley, a village of about six houses.
 
 "`Eighth month,
@@ -1376,7 +1376,8 @@ the king (of Prussia,) whether he was a man easy of access?
 She said yes; but he was opposed to them on political principles.
 We told her our religious concern for the people was, that they might come unto Christ,
 and find rest in him.
-Presented her with Penn`'s No Cross, No Crown, in French, which she received kindly,
+Presented her with Penn`'s [.book-title]#No Cross, No Crown,#
+in French, which she received kindly,
 and wanted to know the meaning of the title,
 as she supposed no person could pass through life without their crosses.
 We told her the saying of Christ, '`If any man will be my disciple,`' etc.,
@@ -1405,7 +1406,7 @@ Some asked if we were Brabanters: when we told them we were not, nor Frenchmen,
 nor Catholics, nor Lutherans, but of a different religion, and came from America,
 they looked surprised, and said it was very far off.
 Waited on professor Beireis, who is esteemed a very learned man.
-We gave him Barclay`'s Apology in Latin, which he received respectfully,
+We gave him Barclay`'s [.book-title]#Apology# in Latin, which he received respectfully,
 said he read everything, and was visited by kings and princes,
 whom he should now have an opportunity of informing of our principles.
 He remarked, that he was glad to have the company of religious people,
@@ -2027,7 +2028,7 @@ have forwarded our meetings with cheerfulness, preparing seats, showing up the p
 etc., so that we believe there was a Divine hand in sending us to this house.
 
 "`Left Berlin at ten o`'clock, after visiting the mayor,
-and leaving with him a note and a copy of Barclay`'s Apology for the king,
+and leaving with him a note and a copy of Barclay`'s [.book-title]#Apology# for the king,
 whom we had a desire to visit; but he being only a short time in the city,
 we could not obtain an interview, and were easy to go on for Brandenburg.
 We were obliged, in consequence of the road being very sandy,
