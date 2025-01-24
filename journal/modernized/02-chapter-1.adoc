@@ -273,7 +273,7 @@ made by a great woman of the church of England,
 that she observed some of the Quakers`' children had departed from the plainness of
 their profession and got about half-way into the fashions of the world,
 which rendered them ridiculous in the eyes of
-others and a reproach to their own Society.`"
+others and a reproach to their own Society.
 
 His appearances in the ministry being approved,
 he was acknowledged as a minister in the year 1781; and in 1785,
@@ -386,8 +386,9 @@ the people continuing in the woods.
 This was truly a relieving time,
 and we thought we had never witnessed so much brokenness throughout:
 they were reluctant to part with us, and many tears were shed on both sides.
-I endeavored as soon as possible to retreat, but they stopped the sulkey frequently,
-and seemed reluctant to let us go.
+I endeavored as soon as possible to retreat, but they stopped the sulkey^
+footnote:[A light, two-wheeled carriage drawn by a horse.]
+frequently, and seemed reluctant to let us go.
 Accompanied by several Friends, we passed on to Augusta,
 and proposed a meeting at four o`'clock in the afternoon of next day;
 but the people being thoughtless and dissipated, were so taken up with their diversion,
@@ -438,7 +439,7 @@ Returning to the house, I saw the landlord, who then showed himself in his true 
 the most abominably wicked man I ever met with,
 full of horrid execrations and threatenings upon all the Northern people;
 but I did not spare him,
-which occasioned a by-stander to express with an oath that I should be '`popped over.`'
+which occasioned a bystander to express with an oath that I should be '`popped over.`'
 
 "`We left them, distressed in mind,
 and having a lonesome wood of twelve miles to pass through,
@@ -663,7 +664,7 @@ Arrived at fort Schuyler in the evening.
 
 "`17th. The boats and stores being yesterday taken over
 from fort Stanwix to Wood creek landing,
-we sat off about eight o`'clock in the morning,
+we set off about eight o`'clock in the morning,
 but as the creek was only about six inches deep,
 were obliged to take about two tons out of our large boats and carry it in wagons,
 to the junction of Canada creek; after this,
@@ -820,7 +821,7 @@ and much approved of our attending the treaty.
 
 "`14th. Almost wearied out with the importunities of the Indians for rum,
 we however put them off.
-Some of the Chippeways having arrived last evening from Michillimachinack,
+Some of the Chippeways having arrived last evening from Michilimackinac,
 and encamped outside the picquets, we paid them a visit,
 but they had drunk much rum before we went, were very rude, called us ill names,
 and appeared very angry.
@@ -1046,7 +1047,7 @@ and we spent most of the forenoon in reading.
 Captain Drake giving us his company,
 related many curious observations he had made
 during four years`' employment on these lakes,
-having arrived a few days past from Michillimachinack,
+having arrived a few days past from Michilimackinac,
 about one hundred and thirty leagues distant, at the further end of lake Huron.
 He informed us that many hundred men are employed by the North-West company,
 who are constantly travelling to a very great distance,
@@ -1164,7 +1165,7 @@ being determined,
 that unless the commissioners agree to give up all the lands west of the Ohio,
 they will not make peace; and if any terms short of this should be offered,
 it is the opinion here, that the Indians will sacrifice all the Americans on the spot.
-One of the two Shawnpse that arrived here,
+One of the two Shawnese that arrived here,
 says he was daily an ear-witness to their counsels,
 and assures us we may depend on his words as truth.
 He says they want neither presents nor purchase-money, but their hunting-grounds;
